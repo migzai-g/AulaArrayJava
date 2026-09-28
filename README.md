@@ -15,16 +15,15 @@ resultados usando **manipulação de Strings**.
 
 - ## Saída esperada
 
-=== Livros com 'Java' no título ===
+ Livros com 'Java' no título 
 Título: Java: Como Programar
 Autor: Deitel & Deitel
-Ano de Publicação: 2017
-----------------------------
+
 Título: Introdução ao Java com POO
 Autor: João Silva
 Ano de Publicação: 2020
-----------------------------
+
 Título: Java Efetivo
 Autor: Joshua Bloch
 Ano de Publicação: 2018
-----------------------------
+
